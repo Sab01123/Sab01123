@@ -1,14 +1,14 @@
 <!-- ![alt text](http://url/to/https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif.png) -->
 <p align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, I'm Sabira Farooq
-</h1>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, I'm Sabira Farooq
+</h1> -->
 <div align="center"><img  src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400px" /></div>
 </p align="center">
 
 
  
- <h1 align="center">Hi 👋, I'm Sabira Farooq</h1>
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, I'm Sabira Farooq</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
