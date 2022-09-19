@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m currently employee at finvolv
+- 🔭 I’m currently at Masai School
 
-- 🌱 Learned **Full-Stack Web Development** from Masai School
+- 🌱 Learning **Full-Stack Web Development** from Masai School
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sab01123?tab=repositories](https://github.com/Sab01123?tab=repositories)
 
