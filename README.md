@@ -9,9 +9,9 @@
  
  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, I'm Sabira Farooq</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
+<img align="right" alt="Coding" width="400" src="">
 
-<p align="left"> <img src="" alt="danish4git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danish4git&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
 
 
