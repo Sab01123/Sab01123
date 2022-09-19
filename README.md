@@ -1,7 +1,7 @@
 <!-- ![alt text](http://url/to/https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif.png) -->
 <p align="center">
 
-  <img width="500" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+  <img width="500" height="200" src="[https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif](https://camo.githubusercontent.com/5fed19f52d68664c5b5475202b5626223460635ad3a399c68b718060698ddd79/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966)">
 </p align="center">
 
 
