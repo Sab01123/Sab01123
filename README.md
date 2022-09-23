@@ -54,7 +54,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sab01123&show_icons=true&locale=en&layout=compact"  /></p>
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab01123&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Sabira Farooq" height="275px" width="30%"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab01123&layout=compact&langs_count=8&hide=&theme=indian-flag" alt="Sabira Farooq" height="275px" width="30%"/>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sab01123&show_icons=true&locale=en&layout=defaul"  /></p>
