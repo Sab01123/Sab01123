@@ -52,7 +52,7 @@
   
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab01123&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
+  <img width="400" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab01123&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
