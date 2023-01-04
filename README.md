@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **farooqsabira123@gmail.com**
+- 📫 How to reach me **sabirafarooq01@gmail.com**
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
@@ -36,7 +36,7 @@
 <p align="center">
 
   
- [![Linkedin Badge](https://img.shields.io/badge/-Sabira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabira-farooq//)](https://www.linkedin.com/in/sabira-farooq/)  [![Gmail Badge](https://img.shields.io/badge/-farooqsabira123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farooqsabira123@gmail.com)](mailto:farooqsabira123@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Sabira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabira-farooq//)](https://www.linkedin.com/in/sabira-farooq/)  [![Gmail Badge](https://img.shields.io/badge/-sabirafarooq01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabirafarooq01@gmail.com)](mailto:sabirafarooq01@gmail.com)
  </p>
 <br>
 
